@@ -8,11 +8,13 @@
 --  Mot de passe de tous les comptes : password123
 -- ============================================================
 
-CREATE DATABASE IF NOT EXISTS pharmastock
-  CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
+-- CREATE DATABASE IF NOT EXISTS pharmastock
+-- CHARACTER SET utf8mb4
+-- COLLATE utf8mb4_unicode_ci;
 
-USE pharmastock;
+-- USE pharmastock;
+
+USE bdroa23eh7pjpzzh5pif;
 
 -- ------------------------------------------------------------
 --  0. Suppression dans l'ordre inverse des dépendances
